@@ -1,0 +1,27 @@
+{
+  "name": "rewiew-trials",
+  "version": "1.0.0",
+  "description": "Working as Code Reviever in the first exercise of the week 2 / module 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcarrascof/Rewiew-trials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcarrascof/Rewiew-trials/issues"
+  },
+  "homepage": "https://github.com/jlcarrascof/Rewiew-trials#readme",
+  "devDependencies": {
+    "hint": "^7.1.5",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
